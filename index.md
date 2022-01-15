@@ -16,9 +16,7 @@ The metrics result of Version B can be found here: [Result of Version B](https:/
 
 ### Open-Source Project
 
-The source code of the open-source project can be found here: [TrainTicket](https://github.com/FudanSELab/train-ticket).
-
-The metrics result can be found here: [Result of TrainTicket](https://github.com/c56a48a6a/microservice-evolution/tree/master/metrics%20result/open-source%20project).
+The metrics result can be found here: [Result of the open-source project](https://github.com/c56a48a6a/microservice-evolution/tree/master/metrics%20result/open-source%20project).
 
 
 
